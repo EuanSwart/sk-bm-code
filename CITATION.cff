@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Deriving Brownian Prices Despite Predictable Order Flow: Python and MATLAB Code"
+version: 1.0.0
+date-released: 2026-10-25
+license: BSD-3-Clause
+authors:
+  - family-names: Swart
+    given-names: Euan
+    affiliation: "Department of Statistical Sciences, University of Cape Town"
+  - family-names: Wood
+    given-names: Dylan
+    affiliation: "Department of Statistical Sciences, University of Cape Town"
+keywords:
+  - econophysics
+  - square-root law
+  - anomalous diffusion
+  - Lévy walk
+  - Mittag-Leffler
+  - Mellin-Barnes
